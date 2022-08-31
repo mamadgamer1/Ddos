@@ -23,4 +23,4 @@ Credit Goes To: **mrprogrammer2938**
 
 ```ls```
 
-```python3 Ddos Attack.py```
+```python3 DDOS-Attack.py```
