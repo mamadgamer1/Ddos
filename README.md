@@ -19,7 +19,7 @@ Credit Goes To: **mrprogrammer2938**
 
 ```ls```
 
-```cd Ddos Attack.py```
+```cd Ddos```
 
 ```ls```
 
