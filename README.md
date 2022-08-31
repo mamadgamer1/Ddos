@@ -24,3 +24,12 @@ Credit Goes To: **mrprogrammer2938**
 ```ls```
 
 ```python3 DDOS-Attack.py```
+# Make Sure To Install requests:
+## install those:
+
+```python3 -m pip install requests``` to install requests
+
+```python3 -m pip install platform``` to install platform
+
+```python3 -m pip install colorama``` to install colorama
+```python3 -m pip install getpass``` to install get pass
