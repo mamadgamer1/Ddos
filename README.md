@@ -32,4 +32,5 @@ Credit Goes To: **mrprogrammer2938**
 ```python3 -m pip install platform``` to install platform
 
 ```python3 -m pip install colorama``` to install colorama
+
 ```python3 -m pip install getpass``` to install get pass
