@@ -65,11 +65,11 @@ def menu():
     UDP_PORT = port
     time.sleep(2)
     Target_ip = socket.gethostbyname(Target_Host)
-    print(Fore.RED + "\n~~~mamadgamer1 BBG MG1~~~")
+    print(Fore.RED + "\nCredit To: mrprogrammer2938 :) ")
     print("Target IP: ==> ", Target_ip)
     time.sleep(1)
     print("\nTarget Port: ==> ", UDP_PORT)
-    print(Fore.RED + "\n~~~mamadgamer1 BBG MG1~~~")
+    print(Fore.RED + "\n mamadgamer1 BBG MG1\tcredit to mrprogrammer2938 , don't claim! its all urs :D")
     time.sleep(2)
     def run(k):
         while True:
