@@ -1,0 +1,8 @@
+python3 -m pip install socket
+python3 -m pip install requests
+python3 -m pip install time
+python3 -m pip install sys
+python3 -m pip install socket
+python3 -m pip install threading
+python3 -m pip install platform
+python3 -m pip install getpass
