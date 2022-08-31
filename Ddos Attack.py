@@ -36,6 +36,7 @@ print(Fore.GREEN + " Capabilities Of This Ddos: ")
 print("""
 Can Send over 10,000 Packets Per 2-5 minutes. !
 """)
+print("Before You Continue i just want to say this ddos attack aint made by me , so make sure to follow credit!\nCredit To: mrprogrammer2938") 
 print(Fore.RED +"")
 BBG_MG1 = input("Press Enter To Start! ")
 print("")
